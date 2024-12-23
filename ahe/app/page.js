@@ -23,7 +23,7 @@ export default function Page() {
           textShadow: "0 0 10px #fff, 0 0 20px #fff, 0 0 30px #ff00ff, 0 0 40px #ff00ff, 0 0 50px #ff00ff",
         }}
       >
-        🐼 Welcome to Panda's CTF Challenge! 🐼
+        🐼 Welcome to Panda CTF Challenge! 🐼
       </h1>
       <p
         style={{
